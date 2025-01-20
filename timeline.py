@@ -51,7 +51,7 @@ def trivia():
     questions = [
         ("What year was Tennis for Two created?", "1958"),
         ("What company saved the gaming industry in 1985?", "Nintendo"),
-        ("Which genre leads global sales?", "Sports")
+        ("Which genre leads global sales?", "Action")
     ]
     for question, answer in questions:
         clear()
